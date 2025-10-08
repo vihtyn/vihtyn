@@ -83,6 +83,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
 
 ### 🤖 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vihtyn&show_icons=true&theme=dark&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vihtyn&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br)
 
 ---         
