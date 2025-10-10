@@ -71,11 +71,29 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-pla
 
 <img 
 align="left" 
+    alt="django"
+    title="django" 
+    width="30px" 
+    style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.sv" 
+/>
+
+<img 
+align="left" 
     alt="mysql"
     title="mysql" 
     width="30px" 
     style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
+<img 
+align="left" 
+    alt="react"
+    title="react" 
+    width="30px" 
+    style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
 <br/>
